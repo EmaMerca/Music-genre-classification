@@ -1,2 +1,2 @@
 # FDS-project
-final project for Foundation of Data Science module
+Final project for Foundation of Data Science module
